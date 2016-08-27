@@ -5,6 +5,7 @@
  *  Author: Benjamin Nold
  */ 
  #include "circularQueue.h"
+ #include "globalInclude.h"
  #include <util/delay.h>
  
  void setupQueue(struct cirQueue *q){
